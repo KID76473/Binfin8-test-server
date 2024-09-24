@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Dynamic output files
+output.wav
+
+# Asset folder (if it's used for dynamically generated or temporary files)
+asset/
+
+# Configurations (if they contain sensitive information or are generated locally)
+config/
+
+# Log files
+*.log
+
+# Editor temporary files
+*.swp
+*.bak
+*.tmp
+
+# Environment variables (if applicable)
+.env
